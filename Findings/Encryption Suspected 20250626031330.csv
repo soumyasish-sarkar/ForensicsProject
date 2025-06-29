@@ -1,0 +1,2 @@
+"Source Name","Source Type",Score,Conclusion,Configuration,Justification,Comment,"File Path"
+mpenginedb.db,File,"Likely Notable",,,"Suspected encryption due to high entropy (7.994132).","Suspected encryption due to high entropy (7.994132).","/img_LoneWolf.E01/vol_vol7/ProgramData/Microsoft/Windows Defender/Scans/mpenginedb.db"
